@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  display: flex;
+  background-color: blue;
+  width: 100%;
+  height: 90px;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.logo{
+  width: 70px;
+  height: 50px;
+  background-color: white;
+  margin:20px ;
+}
+
+.navlinks{
+  width: 400px;
+  height: 35px;
+  background-color: white;
+  margin: 28px 70px 28px;
+}
+
+.master{
+  width: 100%;
+  height: 558px;
+  background-color: grey;
+}
+
+.img1{
+  position: relative;
+  width: 90%;
+  height: 90%;
+  background-color: violet;
+  left: 70px;
+  top: 20px;
+}
+
+.boxmain1{
+  position: relative;
+  width: 30%;
+  height: 60%;
+  background-color: yellow;
+  left: 10%;
+  top: 20%;
+}
+
+.head1{
+  position: relative;
+  width: 60%;
+  height: 50px;
+  background-color: blue;
+  left: 10%;
+  top: 10%;
+}
+
+.content1{
+  position: absolute;
+  width: 80%;
+  height: 50px;
+  background-color: blue;
+  left: 10%;
+  top: 40%;
+}
+
+.button1{
+  position: absolute;
+  width: 30%;
+  height: 50px;
+  background-color: blue;
+  left: 10%;
+  top: 70%;
+}
+
+.aboutus{
+    width: 100%;
+    height: 655px ;
+    background-color: aqua;
+}
+
+
+
